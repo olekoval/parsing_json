@@ -1,1 +1,0 @@
-"code":"K41993","id":"f3ec9dbd-dce5-4a86-b21a-7b4fff03ac1e","inserted_at":"2020-03-31T19:52:32.645167Z","inserted_by":"4261eacf-8008-4e62-899f-de1e2f7065f0","is_active":true,"name":"Цифрова субтракційна ангіографія грудної клітки","request_allowed":true,"
